@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Panda Usil</string>
+    <string name="home">HOME</string>
+    <string name="pendahuluan">Pendahuluan</string>
+    <string name="materi">Materi</string>
+    <string name="video">Video</string>
+    <string name="latihan_soal">Latihan Soal</string>
+    <string name="quiz">Quiz</string>
+    <string name="rangkuman">Rangkuman</string>
+    <string name="pk">PK</string>
+    <string name="about">About</string>
+    <string name="menu_utama">MENU UTAMA</string>
+    <string name="materi_1">Materi 1</string>
+    <string name="judul_1">Proses Perumusan Pancasila sebagai Dasar Negara dalam Sidang BPUPKI</string>
+    <string name="materi_2">Materi 2</string>
+    <string name="judul_2">Isi Rumusan Pancasila para founding father (pendiri negara).</string>
+    <string name="materi_3">Materi 3</string>
+    <string name="judul_3">Sejarah terbentuknya PPKI</string>
+    <string name="materi_4">Materi 4</string>
+    <string name="judul_4">Penetapan Pancasila sebagai Dasar Negara </string>
+    <string name="judul_video_1">Penjelasan Pancasila sebagai Ideologi Negara - Pancasila Sebagai Manual Bangsa</string>
+    <string name="judul_video2">Perumusan dan Penetapan Pancasila Sebagai Dasar Negara</string>
+    <string name="judul_video_3">3 Tokoh Nasional Perumus Pancasila dan Isi Rumusan Dasar Negara</string>
+</resources>
