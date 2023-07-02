@@ -10,8 +10,8 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="![Screenshot_2023-07-02-20-06-14-795_com hanifa project1](https://github.com/yogaWidodo/Media-Pembelajaran-Panda-Usil/assets/120481581/f11fd131-3177-4899-8e02-468848f7e161)
-" alt="project-screenshot" width="400" height="400/">
+<img src="![Screenshot_2023-07-02-20-06-14-795_com hanifa project1](https://github.com/yogaWidodo/Media-Pembelajaran-Panda-Usil/assets/120481581/70a42158-6a49-40ed-9dfc-c191db619654)
+" width="1080" height="2400/">
 
   
   
